@@ -5,13 +5,8 @@
 <meta charset="utf-8" />
 	<title>Главная страница </title>
 
-   <style>
-	body {
-   	   background: #F8F8FF;
-	   color: #483D8B;
-	   
-   }
-   </style>
+  
+  
  </head>
 </head>
 <body>
